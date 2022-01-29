@@ -1,0 +1,44 @@
+@import "null.css";
+
+#one {
+    color:blueviolet
+}
+p{
+    color:rgb(58, 109, 7)
+}
+.second{
+    color:chocolate
+}
+p.third{
+    color:crimson
+}
+.fourth.second{
+    color:cyan
+}
+.fifth>li {
+    color:orange
+}
+p.sixth{
+    color: black;
+}
+main h1{
+    color:rgb(133, 86, 86)
+}
+.ninth+li{
+    color:cornflowerblue
+}
+.seventh{
+    color:darkred
+}
+.seventh~p{
+    color: darkred;
+}
+[class$="th"]{
+    color:deeppink
+}
+[class^="ei"]{
+    color:deeppink
+}
+[class*="igh"]{
+    color: gold
+}
